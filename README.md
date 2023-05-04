@@ -7,7 +7,7 @@ Sort Implimentation of a (k, l)-nearly sorted relation R.
 The default `BINARY_FILE_NAME` is `a.out`.
 
 ```sh
-g++ main.cpp <BINARY_FILE_NAME>
+$ g++ main.cpp <BINARY_FILE_NAME>
 ```
 
 # Run
