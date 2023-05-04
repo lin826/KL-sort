@@ -10,7 +10,7 @@ The default `BINARY_FILE_NAME` is `a.out`.
 $ g++ main.cpp <BINARY_FILE_NAME>
 ```
 
-# Run
+## Run
 
 If compile without specifying `BINARY_FILE_NAME`, the running commend would be `./a.out`. The sorted result would cout on the screen.
 
